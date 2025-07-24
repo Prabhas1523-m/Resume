@@ -8,8 +8,8 @@ You can view or download the PDF version of my resume [here](./PrabhasMale.pdf).
 
 ## 🔗 Connect with Me
 
-- 🔗 [GitHub](https://github.com/yourusername)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- 📧 Email: your.email@example.com
+- 🔗 [GitHub](https://github.com/Prabhas1523-m)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabhasmale/)
+- 📧 Email: prabhasmale@gmail.com
 
 Feel free to reach out for opportunities or collaboration.
